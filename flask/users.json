@@ -1,23 +1,31 @@
-[
-  {
-    "iusuario": "1",
-    "usuario": "PETRLIK",
-    "contraseña": "123",
-    "nombre": "Administrador",
-    "rol": "admin"
-  },
-  {
-    "iusuario": "2",
-    "usuario": "juan",
-    "contraseña": "juan",
-    "nombre": "Juan Pérez",
-    "rol": "usuario"
-  },
-  {
-    "iusuario": "3",
-    "usuario": "alonso",
-    "contraseña": "pass",
-    "nombre": "María García",
-    "rol": "usuario"
-  }
-]
+{
+  "users": [
+    {
+      "id": 1,
+      "usuario": "admin",
+      "contraseña": "admin123",
+      "nombre": "Administrador",
+      "email": "admin@empresa.com",
+      "rol": "admin",
+      "fecha_creacion": "2023-01-15"
+    },
+    {
+      "id": 2,
+      "usuario": "juan",
+      "contraseña": "juan123",
+      "nombre": "Juan Pérez",
+      "email": "juan@ejemplo.com",
+      "rol": "usuario",
+      "fecha_creacion": "2023-02-20"
+    },
+    {
+      "id": 3,
+      "usuario": "maria",
+      "contraseña": "maria456",
+      "nombre": "María García",
+      "email": "maria@ejemplo.com",
+      "rol": "usuario",
+      "fecha_creacion": "2023-03-10"
+    }
+  ]
+}
