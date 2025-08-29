@@ -1,0 +1,16 @@
+{
+  "ejemplos": [
+    {
+      "usuario": "usuario@ejemplo.com",
+      "contraseña": "password123"
+    },
+    {
+      "usuario": "admin@empresa.com",
+      "contraseña": "adminSecure456"
+    },
+    {
+      "usuario": "juan.perez",
+      "contraseña": "miClaveSecreta789"
+    }
+  ]
+}
