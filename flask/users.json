@@ -1,0 +1,23 @@
+[
+  {
+    "iusuario": "1",
+    "usuario": "PETRLIK",
+    "contraseña": "123",
+    "nombre": "Administrador",
+    "rol": "admin"
+  },
+  {
+    "iusuario": "2",
+    "usuario": "juan",
+    "contraseña": "juan",
+    "nombre": "Juan Pérez",
+    "rol": "usuario"
+  },
+  {
+    "iusuario": "3",
+    "usuario": "alonso",
+    "contraseña": "pass",
+    "nombre": "María García",
+    "rol": "usuario"
+  }
+]
